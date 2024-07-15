@@ -2,9 +2,7 @@
 
 # APIS features  
 By accommodating P2P energy sharing between distributed batteries, it is possible to build a microgrid that utilizes variable renewable energy(VRE) as the main power source and enhances the resilience of the power system. These distributed batteries absorb fluctuations of VRE generation and improve community self-sufficiency by balancing supply and demand within the community. 
- <br />  
-Click [here](https://www.sonycsl.co.jp/tokyo/11481/) for details
- <br />  
+
 # Technoogy
 
 ## Physical Peer to Peer(PP2P) energy sharing
