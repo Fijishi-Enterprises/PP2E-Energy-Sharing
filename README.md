@@ -1,9 +1,8 @@
 # Autonomous Power Interchange System (APIS)
-
-# APIS features  
+  
 By accommodating P2P energy sharing between distributed batteries, it is possible to build a microgrid that utilizes variable renewable energy(VRE) as the main power source and enhances the resilience of the power system. These distributed batteries absorb fluctuations of VRE generation and improve community self-sufficiency by balancing supply and demand within the community. 
 
-# Technoogy
+# Technology
 
 ## Physical Peer to Peer(PP2P) energy sharing
 This technology achieves a fixed amount of energy sharing between batteries by constant current control. It offset a shortage of one battery with delivering the necessary amount from a surplus of other battery. It is possible to send a fixed amount of power between specific users (batteries), which was difficult to realize by the voltage control, and it is possible to transact PP2P energy trading between users on the condition of the required energy amount and energy price. 
