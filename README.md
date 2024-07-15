@@ -137,10 +137,3 @@ Use apis-dcdc_batt_comm instead of apis-emulator.
  - [apis-hw-info](https://github.com/SonyCSL/apis-hw-info)  
   Hardware reference information  
   See apis-hw-info's [Documentation](https://github.com/SonyCSL/apis-hw-info/blob/main/MAIN-DOCUMENT_EN.md) for more information.
-
- ## License
-&emsp;[Apache License Version 2.0](https://github.com/oes-github/APIS/blob/master/LICENSE)
-
-
-## Notice
-&emsp;[Notice](https://github.com/oes-github/APIS/blob/master/NOTICE.md)
